@@ -1,0 +1,1 @@
+/home/kurtosis/bin/scripts/vim/cull.vim
